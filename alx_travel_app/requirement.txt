@@ -1,7 +1,7 @@
-django
+Django>=4.2
 djangorestframework
 django-cors-headers
 drf-yasg
-celery
 django-environ
+celery
 mysqlclient
